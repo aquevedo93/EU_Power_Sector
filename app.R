@@ -31,7 +31,7 @@ cbPalette2<- c("#DDCC77","#999999","#6699CC","#CC6677", "#E69F00", "#56B4E9", "#
                "#F0E442", "#D55E00", "#0072B2", "#CC79A7","#000000")
 
 
-### LOADING THE NECESSARY DATA AND SHAPE FILES ###
+### LOADING DATA AND SHAPE FILES ###
 
 ##CO2 Emission Intensity 
 EI<- read_csv('data/co2-emission-intensity-from-electricity-generation-2.csv')
