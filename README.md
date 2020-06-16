@@ -1,7 +1,15 @@
 # EU Power Sector
 RShiny App exploring the energy transition in the EU towards decarbonization
 
-**Link to final RShiny app:** https://aquevedo.shinyapps.io/EU_Power_Sector/ 
+**Link to final RShiny app:** https://aquevedo.shinyapps.io/EU_Power_Sector/
+
+## Key Takeaways
+
+* Electricity production is becoming less carbon intensive.
+* In 2015 and 2016, low-carbon energy sources (Renewables and Nuclear) dominated the electricity mix of the EU, together generating more power than fossil fuel sources.
+* The number of coal power plants is decreasing in recent years.
+* The transition from fossil fuels to renewable energy sources has led CO2 emissions in the power sector to fall 8.3% in 2018.
+* More power plants does not equate to higher carbon emissions. 
 
 ## Executive Summary 
 
