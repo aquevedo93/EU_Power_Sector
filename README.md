@@ -1,5 +1,5 @@
 # EU Power Sector
-RShiny App exploring the energy transition in the EU towards decarbonization
+RShiny App exploring the energy transition in the EU towards decarbonization including interactive maps and charts.
 
 **Link to final RShiny app:** https://aquevedo.shinyapps.io/EU_Power_Sector/
 
